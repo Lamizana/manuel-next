@@ -8,7 +8,7 @@
         <meta name="author" content="Alex Lamizana">
         
         <link rel="shortcut icon" href="../../img/favicon.ico">
-        <title>Gestion des stocks - Manuel NEXT</title>
+        <title>Réceptions - Manuel pour erp NEXT</title>
         <link href="../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../css/base.css" rel="stylesheet">
@@ -20,7 +20,7 @@
     <body>
         <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-                <a class="navbar-brand" href="../..">Manuel NEXT</a>
+                <a class="navbar-brand" href="../..">Manuel pour erp NEXT</a>
                 <!-- Expander button -->
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
                     <span class="navbar-toggler-icon"></span>
@@ -32,9 +32,6 @@
                         <ul class="nav navbar-nav">
                             <li class="navitem">
                                 <a href="../.." class="nav-link">Accueil</a>
-                            </li>
-                            <li class="navitem">
-                                <a href="../../introduction.md" class="nav-link">Introduction</a>
                             </li>
                             <li class="dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Vue d'ensemble <b class="caret"></b></a>
@@ -54,31 +51,119 @@
                                 <ul class="dropdown-menu">
                                     
 <li>
-    <a href="../connexion/" class="dropdown-item">Connexion</a>
+    <a href="../../utilisateur/connexion/" class="dropdown-item">Connexion et authentification</a>
 </li>
                                     
 <li>
-    <a href="../navigation/" class="dropdown-item">Navigation</a>
+    <a href="../../utilisateur/parametre-utilisateur/" class="dropdown-item">Paramétrage du compte utilisateur</a>
 </li>
                                     
 <li>
-    <a href="../gestion-clients/" class="dropdown-item">Gestion des clients</a>
+    <a href="../../utilisateur/navigation/" class="dropdown-item">Navigation générale</a>
 </li>
                                     
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Gestion des ventes</a>
+    <ul class="dropdown-menu">
+            
 <li>
-    <a href="./" class="dropdown-item active">Gestion des stocks</a>
+    <a href="../../gestion-ventes/devis/" class="dropdown-item">Devis</a>
 </li>
+            
+<li>
+    <a href="../../gestion-ventes/commandes/" class="dropdown-item">Commandes</a>
+</li>
+            
+<li>
+    <a href="../../gestion-ventes/bon-de-livraisons/" class="dropdown-item">Livraisons</a>
+</li>
+            
+<li>
+    <a href="../../gestion-ventes/factures/" class="dropdown-item">Factures</a>
+</li>
+            
+<li>
+    <a href="../../gestion-ventes/paiement/" class="dropdown-item">Paiement</a>
+</li>
+            
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Clients</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../gestion-ventes/clients/fiches-clients/" class="dropdown-item">Fiches clients</a>
+</li>
+            
+<li>
+    <a href="../../gestion-ventes/clients/suivi-commercial/" class="dropdown-item">Suivi commercial</a>
+</li>
+            
+<li>
+    <a href="../../gestion-ventes/clients/suivi-comptable/" class="dropdown-item">Suivi comptable</a>
+</li>
+    </ul>
+  </li>
+            
+<li>
+    <a href="../../gestion-ventes/mise-en-pratique/" class="dropdown-item">Mise en pratique</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Gestion des achats</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../demande-achats/" class="dropdown-item">Demande d'achats</a>
+</li>
+            
+<li>
+    <a href="../commande-achats/" class="dropdown-item">Commandes d'achats</a>
+</li>
+            
+<li>
+    <a href="./" class="dropdown-item active">Réceptions</a>
+</li>
+            
+<li>
+    <a href="../factures-achats/" class="dropdown-item">Factures d'achats</a>
+</li>
+            
+<li>
+    <a href="../fournisseurs/" class="dropdown-item">Fournisseurs</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Gestion des stocks</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../gestion-stocks/articles.md" class="dropdown-item">Articles</a>
+</li>
+            
+<li>
+    <a href="../../gestion-stocks/ajustements.md" class="dropdown-item">Ajustements</a>
+</li>
+            
+<li>
+    <a href="../../gestion-stocks/inventaires.md" class="dropdown-item">Inventaires</a>
+</li>
+            
+<li>
+    <a href="../../gestion-stocks/transferts.md" class="dropdown-item">Transferts intradépôt</a>
+</li>
+            
+<li>
+    <a href="../../gestion-stocks/mise-en-pratique.md" class="dropdown-item">Mise en pratique</a>
+</li>
+    </ul>
+  </li>
                                     
 <li>
-    <a href="../gestion-fournisseurs.md" class="dropdown-item">Gestion des fournisseurs</a>
-</li>
-                                    
-<li>
-    <a href="../ressources-humaine/" class="dropdown-item">Ressources Humaine</a>
-</li>
-                                    
-<li>
-    <a href="../mise-en-pratique/" class="dropdown-item">Mise en pratique</a>
+    <a href="../../utilisateur/mise-en-pratique.md" class="dropdown-item">Mise en pratique</a>
 </li>
                                 </ul>
                             </li>
@@ -97,12 +182,12 @@
                             </a>
                         </li>
                             <li class="nav-item">
-                                <a rel="prev" href="../gestion-clients/" class="nav-link">
+                                <a rel="prev" href="../commande-achats/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a rel="next" href="../ressources-humaine/" class="nav-link">
+                                <a rel="next" href="../factures-achats/" class="nav-link">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
@@ -124,7 +209,7 @@
     <div id="toc-collapse" class="navbar-collapse collapse card bg-light">
         <ul class="nav flex-column">
             
-            <li class="nav-item" data-level="1"><a href="#gestion-des-stocks" class="nav-link">Gestion des stocks</a>
+            <li class="nav-item" data-level="1"><a href="#receptions" class="nav-link">Réceptions</a>
               <ul class="nav flex-column">
               </ul>
             </li>
@@ -133,13 +218,17 @@
 </div></div>
                     <div class="col-md-9" role="main">
 
-<h1 id="gestion-des-stocks">Gestion des stocks<a class="headerlink" href="#gestion-des-stocks" title="Permanent link">#</a></h1></div>
+<h1 id="receptions">Réceptions</h1></div>
             </div>
         </div>
 
         <footer class="col-md-12">
-            <hr>
-            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+<footer>
+  <p style="text-align:center;">
+    © 2025 NEXT - Documentation interne ERP - Version 1.0.0 - Auteur: Alex Lamizana
+  </p>
+</footer>
+
         </footer>
         <script src="../../js/jquery-3.6.0.min.js"></script>
         <script src="../../js/bootstrap.min.js"></script>

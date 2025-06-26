@@ -1,26 +1,50 @@
-site_name: Manuel NEXT
+site_name: Manuel pour erp NEXT
 site_author: Alex Lamizana
 site_description: Documentation pour NEXT
 
 nav:
   - Accueil: index.md
-  - Introduction: introduction.md
   - Vue d'ensemble:
-      - Architecture: Architecture.md
-      - Principaux modules: principaux-modules.md
+    - Architecture: Architecture.md
+    - Principaux modules: principaux-modules.md
+
   - Guide utilisateur:
-      - Connexion: utilisateur/connexion.md
-      - Navigation: utilisateur/navigation.md
-      - Gestion des clients: utilisateur/gestion-clients.md
-      - Gestion des stocks: utilisateur/gestion-stocks.md
-      - Gestion des fournisseurs: utilisateur/gestion-fournisseurs.md
-      - Ressources Humaine: utilisateur/ressources-humaine.md
-      - Mise en pratique: utilisateur/mise-en-pratique.md
+    - Connexion et authentification: utilisateur/connexion.md
+    - Paramétrage du compte utilisateur: utilisateur/parametre-utilisateur.md
+    - Navigation générale: utilisateur/navigation.md
+    - Gestion des ventes:
+      - Devis: gestion-ventes/devis.md
+      - Commandes: gestion-ventes/commandes.md
+      - Livraisons: gestion-ventes/bon-de-livraisons.md
+      - Factures: gestion-ventes/factures.md
+      - Paiement: gestion-ventes/paiement.md
+      - Clients:
+        - Fiches clients: gestion-ventes/clients/fiches-clients.md
+        - Suivi commercial: gestion-ventes/clients/suivi-commercial.md
+        - Suivi comptable: gestion-ventes/clients/suivi-comptable.md
+      - Mise en pratique: gestion-ventes/mise-en-pratique.md
+    - Gestion des achats: 
+      - Demande d'achats: gestion-achats/demande-achats.md
+      - Commandes d'achats: gestion-achats/commande-achats.md
+      - Réceptions: gestion-achats/receptions.md
+      - Factures d'achats: gestion-achats/factures-achats.md
+      - Fournisseurs: gestion-achats/fournisseurs.md
+    - Gestion des stocks:
+      - Articles: gestion-stocks/articles.md
+      - Ajustements: gestion-stocks/ajustements.md
+      - Inventaires: gestion-stocks/inventaires.md
+      - Transferts intradépôt: gestion-stocks/transferts.md
+      - Mise en pratique: gestion-stocks/mise-en-pratique.md
+    - Mise en pratique: utilisateur/mise-en-pratique.md
+
   - Contact: contact.md
+
   - Terms: terms.md
 
+
 theme:
-  name: mkdocs #readthedocs 
+  name: mkdocs #readthedocs
+  custom_dir: overrides
   user_color_mode_toggle: true
   highlight.js: true
   shortcuts:
@@ -33,6 +57,5 @@ extra:
   version: 1.0.0
   copyright: NEXT
 
-markdown_extensions:
-  - toc:
-      permalink: "#"
+extra_css:
+  # - css/custom.css

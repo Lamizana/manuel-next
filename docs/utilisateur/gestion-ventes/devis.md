@@ -20,7 +20,7 @@ Le formulaire de création et de gestion d’un devis est organisé en **4 ongle
 | **📝 Détails**             | **Informations principales** du devis : client, date, validité, articles, quantités, prix.                   |
 | **📍 Adresse et contact**  | **Coordonnées** de facturation et de livraison, contacts référents associés au client.                       |
 | **ℹ️ Plus d’infos**        | **Données complémentaires** : références internes, notes internes, options avancées.                         |
-| **📄 Termes**              | **Conditions commerciales** : modalités de paiement, frais de livraison, remises, commentaires.               |
+| **📄 Termes**              | **Conditions commerciales** : modalités de paiement, frais de livraison, remises, commentaires.              |
 
 ---
 
@@ -43,7 +43,7 @@ Le formulaire de création et de gestion d’un devis est organisé en **4 ongle
 
 | Champ              | Description                                                       |
 |--------------------|-------------------------------------------------------------------|
-| **👤 Client**          | Sélectionnez un client existant ou créez-en un nouveau.          |
+| **👤 Client**          | Sélectionnez un client existant ou créez-en un **[nouveau](../gestion-ventes/clients/fiches-clients.md)**.        |
 | **📅 Date du devis**   | La date de création du document.                                |
 | **⏳ Validité**        | Durée de validité de l’offre (ex. : 30 jours).                   |
 

@@ -63,19 +63,19 @@ Le site est actuellement sur : <https://lamizana.github.io/manuel-next/>.
 
 ## Personnaliser le footer Mkdocs
 
-1. Crée un dossier **overrides/** à la racine de ton projet :
+1. Crée un dossier **overrides/** à la racine de ton projet
 
   ```bash
   mkdir overrides
   ```
 
-1. Dans ce dossier, crée le chemin :
+1. Dans ce dossier, crée le chemin
 
   ```bash
   overrides/main.html
   ```
 
-1. Ajoute ce contenu dans overrides/main.html :
+1. Ajoute ce contenu dans overrides/main.html
 
   ```html
   {% extends "base.html" %}
@@ -85,7 +85,7 @@ Le site est actuellement sur : <https://lamizana.github.io/manuel-next/>.
   {% endblock %}
   ```
 
-1. Dans ton mkdocs.yml, indique l’override :
+1. Dans ton mkdocs.yml, indique l’override
 
   ```yaml
   theme:

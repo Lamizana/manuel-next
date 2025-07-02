@@ -1,7 +1,9 @@
+# Configuration du site :
 site_name: NEXT – Guide & Référentiel
 site_author: Alex Lamizana
 site_description: Documentation pour NEXT
 
+# Configuration de la navigation :
 nav:
   - Accueil: index.md
   - Vue d'ensemble:
@@ -39,7 +41,7 @@ nav:
   - FAQ: faq.md
   - Terms: terms.md
 
-
+# Configuration du thème :
 theme:
   name: material                  # mkdocs,readthedocs
   custom_dir: overrides
@@ -56,9 +58,23 @@ theme:
   #   - navigation.instant
   #   - navigation.top
 
+
+# Ajouter un fichier css pour personnaliser le site :
+extra_css:
+  - css/custom.css
+
+# Ajouter des extensions pour personnaliser le site :
+markdown_extensions:
+  - pymdownx.extra
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.betterem
+  - pymdownx.magiclink
+  - pymdownx.tilde
+  - attr_list
+
+
+# Configuration des versions :
 extra:
   version: 1.0.0
   copyright: NEXT
-
-# extra_css:
-#   - css/custom.css

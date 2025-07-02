@@ -12,6 +12,7 @@
 ```bash
 > mkdocs serve --dev-addr=127.0.0.1:8001    # Lance le serveur.
 > mkdocs build                              # Génére le site de documentation.
+
 ```
 
 ---
@@ -53,7 +54,7 @@ Voici la liste des thèmes disponibles par défaut avec MkDocs :
 ## Déploiement
 
 ```bash
-mkdocs gh-deploy
+mkdocs gh-deploy --clean
 ```
 
 Le site est actuellement sur : <https://lamizana.github.io/manuel-next/>.

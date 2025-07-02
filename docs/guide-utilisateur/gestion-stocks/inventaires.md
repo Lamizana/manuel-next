@@ -1,3 +1,3 @@
-# Questions / réponses
+# Inventaires
 
 > *[ En cours de construction ]*

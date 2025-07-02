@@ -37,5 +37,3 @@ Si vous préférez, vous pouvez également nous envoyer un message via le formul
 > Notre équipe s’engage à répondre à vos demandes sous 24 heures en jours ouvrés.
 
 ---
-
-Veux-tu que je t’aide à ajouter un formulaire de contact fonctionnel (HTML ou intégré à MkDocs via plugin) ou des liens directs vers un support live ?

@@ -43,36 +43,36 @@ Le formulaire de création et de gestion d’un devis est organisé en **4 ongle
 
 | Champ              | Description                                                       |
 |--------------------|-------------------------------------------------------------------|
-| **👤 Client**          | Sélectionnez un client existant ou créez-en un **[nouveau](../gestion-ventes/clients/fiches-clients.md)**.        |
+| **👤 Client**          | Sélectionnez un client existant ou créez-en un **[nouveau](../gestion-ventes/clients/fiche.md)**.        |
 | **📅 Date du devis**   | La date de création du document.                                |
 | **⏳ Validité**        | Durée de validité de l’offre (ex. : 30 jours).                   |
 
-![Formulaire de détails du devis](../../images/devis/devis_03.jpeg)
+![Informations générales](../../images/devis/devis_03.jpeg)
 
 ---
 
 ### 3. Ajouter les lignes de produits
 
-- Cliquez sur **Ajouter une ligne**  
-- Sélectionnez l’**article** ou le **service**  
-- Renseignez la **quantité**, vérifiez le **prix unitaire** et **appliquez** une remise si besoin  
-- Vérifiez le **montant total HT/TTC**
+- Cliquez sur **Ajouter une ligne**.
+- Sélectionnez l’**article** ou le **service**.
+- Renseignez la **quantité**, vérifiez le **prix unitaire** et **appliquez** une remise si besoin.  
+- Vérifiez le **montant total HT/TTC**.
 
 ---
 
 ### 4. Conditions de vente (facultatif)
 
-- **Modalités de paiement** (ex. : 30 jours fin de mois)  
-- **Frais de livraison**  
-- **Commentaires** visibles sur le PDF
+- **Modalités de paiement** (ex. : 30 jours fin de mois).  
+- **Frais de livraison**.
+- **Commentaires** visibles sur le PDF.
 
 ---
 
 ### 5. Sauvegarder et envoyer
 
-1. Cliquez sur **Enregistrer** pour sauvegarder le brouillon  
-2. Puis sur **Générer le PDF** pour prévisualiser  
-3. Enfin, cliquez sur **Envoyer par email** pour transmettre au client  
+1. Cliquez sur **Enregistrer** pour sauvegarder le brouillon.  
+2. Puis sur **Générer le PDF** pour prévisualiser.
+3. Enfin, cliquez sur **Envoyer par email** pour transmettre au **[client](../gestion-ventes/clients/fiche.md)**.
 
 <!-- ![Confirmation d’envoi](../images/devis/confirmation-envoi.png) -->
 
@@ -80,9 +80,9 @@ Le formulaire de création et de gestion d’un devis est organisé en **4 ongle
 
 ## ✅ Résultat attendu
 
-- Le devis apparaît dans la liste avec un **statut** (Brouillon / Envoyé / Accepté / Refusé)  
-- Il est **rattaché** à la fiche client  
-- Disponible en version **PDF** imprimable
+- Le devis apparaît dans la liste avec un **statut** (Brouillon / Envoyé / Accepté / Refusé).
+- Il est **rattaché** à la fiche **[client](../gestion-ventes/clients/fiche.md)**.
+- Disponible en version **PDF** imprimable.
 
 ---
 

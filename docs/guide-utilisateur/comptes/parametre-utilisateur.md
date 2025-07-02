@@ -1,3 +1,3 @@
-# Questions / réponses
+# Paramètre utilisateur
 
 > *[ En cours de construction ]*

@@ -1,3 +1,3 @@
-# Questions / réponses
+# Paiement
 
 > *[ En cours de construction ]*

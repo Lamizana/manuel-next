@@ -5,36 +5,36 @@ site_description: Documentation pour NEXT
 nav:
   - Accueil: index.md
   - Vue d'ensemble:
-    - Architecture: Architecture.md
-    - Principaux modules: principaux-modules.md
+    - Architecture: vue-densemble/architecture.md
+    - Principaux modules: vue-densemble/principaux-modules.md
   - Guide utilisateur:
-    - Connexion et authentification: utilisateur/connexion.md
-    - Paramétrage du compte utilisateur: utilisateur/parametre-utilisateur.md
-    - Navigation générale: utilisateur/navigation.md
+    - Navigation générale: guide-utilisateur/navigation.md
+    - Comptes utilisateurs:
+      - Connexion et authentification: guide-utilisateur/comptes/connexion.md
+      - Paramétrage du compte utilisateur: guide-utilisateur/comptes/parametre-utilisateur.md
     - Gestion des ventes:
-      - Devis: utilisateur/gestion-ventes/devis.md
-      - Commandes: utilisateur/gestion-ventes/commandes.md
-      - Livraisons: utilisateur/gestion-ventes/bon-de-livraisons.md
-      - Factures: utilisateur/gestion-ventes/factures.md
-      - Paiement: utilisateur/gestion-ventes/paiement.md
+      - Devis: guide-utilisateur/gestion-ventes/devis.md
+      - Commandes: guide-utilisateur/gestion-ventes/commandes.md
+      - Livraisons: guide-utilisateur/gestion-ventes/livraisons.md
+      - Factures: guide-utilisateur/gestion-ventes/factures.md
+      - Paiement: guide-utilisateur/gestion-ventes/paiement.md
       - Clients:
-        - Fiches clients: utilisateur/gestion-ventes/clients/fiches-clients.md
-        - Suivi commercial: utilisateur/gestion-ventes/clients/suivi-commercial.md
-        - Suivi comptable: utilisateur/gestion-ventes/clients/suivi-comptable.md
-      - Mise en pratique: utilisateur/gestion-ventes/mise-en-pratique.md
+        - Fiches clients: guide-utilisateur/gestion-ventes/clients/fiche.md
+        - Suivi commercial: guide-utilisateur/gestion-ventes/clients/suivi-commercial.md
+        - Suivi comptable: guide-utilisateur/gestion-ventes/clients/suivi-comptable.md
+      - Mise en pratique: guide-utilisateur/gestion-ventes/mise-en-pratique.md
     - Gestion des achats:
-      - Demande d'achats: utilisateur/gestion-achats/demande.md
-      - Commandes d'achats: utilisateur/gestion-achats/commande.md
-      - Réceptions: utilisateur/gestion-achats/receptions.md
-      - Factures d'achats: utilisateur/gestion-achats/factures.md
-      - Fournisseurs: utilisateur/gestion-achats/fournisseurs.md
+      - Demande d'achats: guide-utilisateur/gestion-achats/demande.md
+      - Commandes d'achats: guide-utilisateur/gestion-achats/commande.md
+      - Réceptions: guide-utilisateur/gestion-achats/receptions.md
+      - Factures d'achats: guide-utilisateur/gestion-achats/factures.md
+      - Fournisseurs: guide-utilisateur/gestion-achats/fournisseurs.md
     - Gestion des stocks:
-      - Articles: utilisateur/gestion-stocks/articles.md
-      - Ajustements: utilisateur/gestion-stocks/ajustements.md
-      - Inventaires: utilisateur/gestion-stocks/inventaires.md
-      - Transferts intradépôt: utilisateur/gestion-stocks/transferts.md
-      - Mise en pratique: utilisateur/gestion-stocks/mise-en-pratique.md
-    - Mise en pratique: utilisateur/mise-en-pratique.md
+      - Articles: guide-utilisateur/gestion-stocks/articles.md
+      - Ajustements: guide-utilisateur/gestion-stocks/ajustements.md
+      - Inventaires: guide-utilisateur/gestion-stocks/inventaires.md
+      - Transferts intradépôt: guide-utilisateur/gestion-stocks/transferts.md
+    - Mise en pratique: guide-utilisateur/pratique.md
   - Contact: contact.md
   - FAQ: faq.md
   - Terms: terms.md

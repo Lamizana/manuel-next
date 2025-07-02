@@ -1,3 +1,3 @@
-# Questions / réponses
+# Réceptions
 
 > *[ En cours de construction ]*

@@ -1,7 +1,5 @@
 # NEXT Mode d'emploi
 
-Pour une documentation complète, visitez [mkdocs.org](https://www.mkdocs.org).
-
 ---
 
 ## Commandes
@@ -57,6 +55,8 @@ Voici la liste des thèmes disponibles par défaut avec MkDocs :
 ```bash
 mkdocs gh-deploy
 ```
+
+Le site est actuellement sur : <https://lamizana.github.io/manuel-next/>.
 
 ---
 

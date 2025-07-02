@@ -4,6 +4,7 @@
   border-radius: 10px;
 }
 
+
 /* ===================== Gestion des cartes de contact ===================== */
 /* Container des cartes de contact */
 .contact-cards {
@@ -39,4 +40,15 @@
 
 .contact-card li {
   margin-bottom: 0.4rem;
+}
+
+/* ======================== Gestion des séparateurs ======================== */
+/* <hr class="custom-separator" /> */
+.custom-separator {
+  border: none;
+  height: 1px;
+  background-color: var(--md-primary-fg-color);
+  margin: 40px 0;
+  border-radius: 2px;
+  opacity: 0.5;
 }

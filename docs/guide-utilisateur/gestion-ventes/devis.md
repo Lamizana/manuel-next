@@ -15,7 +15,7 @@ Ce tutoriel vous guide pas à pas pour **créer**, **enregistrer** et **envoyer*
 
 ### 1. Accéder au module **Devis**
 
-- Depuis l'**onglet principal** : `Ventes → Devis`
+- Depuis l'**onglet principal** : Ventes > Devis
 
 ![Emplacement du module Devis](../../images/devis/devis_01.jpeg){.shadowed-image}
 
@@ -48,9 +48,13 @@ Ce tutoriel vous guide pas à pas pour **créer**, **enregistrer** et **envoyer*
 - Renseignez la **quantité**, vérifiez le **prix unitaire**, appliquez une **remise** si nécessaire.
 - Le système calcule automatiquement le **total HT/TTC**.
 
+> ⚠️ **Champs obligatoires** : Le nom de l'article, la quantité ainsi que l'unité de mesure doivent impérativement être renseignés.
+
 ![Ajouter un article](../../images/devis/article_01.jpeg){.shadowed-image}
 
 > 💡 **Astuce** : vous pouvez utiliser une douchette pour scanner un article. Il vous suffira ensuite d’ajouter la quantité.
+
+---
 
 #### ⚙️ Modale unité de mesure à l’ajout d’un article
 
@@ -70,6 +74,8 @@ Lors de l’ajout d’un article dans un devis ou une commande, **si l’article
 ![Modale unité de mesure](../../images/devis/modale_udm.jpeg){.shadowed-image}
 
 > 💡 Cette fonctionnalité permet d’adapter précisément les quantités aux besoins du client et à la gestion des stocks.
+
+---
 
 #### ⚙️ Modale des articles associés
 
@@ -136,14 +142,11 @@ Le formulaire est divisé en **4 onglets** pour faciliter la saisie et la lectur
 
 Contient les **informations principales** du devis.
 
-| Champ                    | Description                                                              |
-|--------------------------|--------------------------------------------------------------------------|
-| **👤 Client**             | Client concerné par le devis.                                            |
-| **📅 Date du devis**      | Date de création du document.                                            |
-| **⏳ Validité**           | Durée de validité de l’offre (ex. : 30 jours).                           |
-| **🔗 Référence externe**  | Référence client facultative.                                            |
-| **📦 Liste des articles** | Produits/services proposés (quantité, prix, remises éventuelles).       |
-| **💸 Taxes et frais**     | Gére les éléments qui impactent le montant final du devis       |
+| Champ                    | Description                                                        |
+|--------------------------|--------------------------------------------------------------------|
+| **📦 Articles** | Produits/services proposés (quantité, prix, client).                       |
+| **💸 Taxes et frais**     | Gére les éléments qui impactent le montant final du devis  .     |
+| **💸 Remise supplémentaire**     | Gére les remises supplémentaires.                          |
 
 > 💡 **Astuce** : Ajoutez des remises ligne par ligne, ou appliquez une remise globale dans l’onglet "Termes".
 
@@ -167,6 +170,29 @@ Dans cette partie, vous pouvez gérer les taxes et frais applicables au devis.
 
 > ⚠️ **Important** : Veillez à vérifier que les taux et frais appliqués sont conformes à la réglementation en vigueur pour éviter tout litige.
 
+#### 💸 Remise Supplémentaire
+
+Cette section permet d’appliquer une remise supplémentaire au devis.
+
+- **Appliquer une remise sur**  
+  Sélectionnez la base de calcul de la remise (ex. : Total TTC).
+
+- **Code de coupon**  
+  Saisissez un code promo pour appliquer une réduction spécifique (facultatif).
+
+- **Pourcentage de remise**  
+  Pourcentage à appliquer en réduction supplémentaire sur la base sélectionnée.
+
+- **Montant de la remise (EUR)**  
+  Montant fixe de réduction appliqué, remplace ou complète le pourcentage selon configuration.
+
+- **Partenaire commercial**  
+  Référence éventuelle au partenaire lié à cette remise.
+
+![Taxes](../../images/devis/remise.jpeg){.shadowed-image}
+
+> 💡 **Astuce** : Utilisez cette remise pour offrir des promotions ponctuelles ou spécifiques, et suivre les remises par partenaire.
+
 ---
 
 ### 📍 Adresse et contact
@@ -175,9 +201,9 @@ Regroupe les **coordonnées** du client.
 
 | Champ                        | Description                                                                |
 |------------------------------|----------------------------------------------------------------------------|
-| **🏠 Adresse de facturation** | Automatiquement renseignée selon la fiche client (modifiable).              |
-| **🚚 Adresse de livraison**   | Peut être différente de l’adresse de facturation.                           |
-| **📞 Contact principal**      | Personne référente à contacter (nom, téléphone, email).                     |
+| **🏠 Adresse de facturation** | Automatiquement renseignée selon la fiche client (modifiable).            |
+| **🚚 Adresse de livraison**   | Peut être différente de l’adresse de facturation.                         |
+| **📞 Contact principal**      | Personne référente à contacter (nom, téléphone, email).                   |
 
 ![Adresses](../../images/devis/addresse.jpeg){.shadowed-image}
 

@@ -37,9 +37,9 @@ nav:
       - Inventaires: guide-utilisateur/gestion-stocks/inventaires.md
       - Transferts intradépôt: guide-utilisateur/gestion-stocks/transferts.md
     - Mise en pratique: guide-utilisateur/pratique.md
-  - Contact: contact.md
-  - FAQ: faq.md
-  - Terms: terms.md
+  - Contact: support/contact.md
+  - FAQ: support/faq.md
+  - Termes: support/termes.md
 
 # Configuration du thème :
 theme:
@@ -72,7 +72,6 @@ markdown_extensions:
   - pymdownx.magiclink
   - pymdownx.tilde
   - attr_list
-
 
 # Configuration des versions :
 extra:

@@ -69,13 +69,13 @@ Le site est actuellement sur : <https://lamizana.github.io/manuel-next/>.
 mkdir overrides
 ```
 
-2. Dans ce dossier, crée le chemin :
+1. Dans ce dossier, crée le chemin :
 
 ```bash
 overrides/main.html
 ```
 
-3. Ajoute ce contenu dans overrides/main.html :
+1. Ajoute ce contenu dans overrides/main.html :
 
 ```html
 {% extends "base.html" %}
@@ -85,7 +85,7 @@ overrides/main.html
 {% endblock %}
 ```
 
-4. Dans ton mkdocs.yml, indique l’override :
+1. Dans ton mkdocs.yml, indique l’override :
 
 ```yaml
 theme:

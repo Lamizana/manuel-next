@@ -28,5 +28,6 @@ Ce guide utilisateur présente les **principales fonctionnalités** de la soluti
 
 Il s’adresse à l’ensemble des collaborateurs et fournit toutes les informations nécessaires pour une **prise en main rapide** et une **utilisation optimale** de l’ERP.
 
----
+> Ce guide regroupe l’ensemble des bonnes pratiques, règles métier et instructions fonctionnelles nécessaires pour utiliser efficacement NEXT.
 
+---

@@ -1,14 +1,12 @@
 # 📞 Contact
 
-Pour toute question, assistance ou retour concernant NEXT, n’hésitez pas à conta
-cter notre équipe support.
+Pour toute question, assistance ou retour concernant NEXT, n’hésitez pas à contacter notre équipe support.
 
 ---
 
 ## Coordonnées
 
 <div class="contact-cards">
-
   <div class="contact-card">
     <h4>🛠️ Support – Joshua</h4>
     <ul>
@@ -45,15 +43,6 @@ cter notre équipe support.
 
 - Consultez notre [FAQ](faq.md) pour les questions fréquentes.  
 - Accédez à la documentation complète sur [notre site](https://lamizana.github.io/manuel-next/).
-
----
-
-## Formulaire de contact
-
-Si vous préférez, vous pouvez également nous envoyer un message via le formulaire
-de contact disponible sur notre site web.
-
----
 
 > Notre équipe s’engage à répondre à vos demandes sous 24 heures en jours ouvrés.
 

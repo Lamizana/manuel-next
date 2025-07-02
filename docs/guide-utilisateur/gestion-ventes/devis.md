@@ -73,7 +73,7 @@ Lors de l’ajout d’un article dans un devis ou une commande, **si l’article
 
 ![Modale unité de mesure](../../images/devis/modale_udm.jpeg){.shadowed-image}
 
-> 💡 Cette fonctionnalité permet d’adapter précisément les quantités aux besoins du client et à la gestion des stocks.
+> 💡 **Astuce** : Cette fonctionnalité permet d’adapter précisément les quantités aux besoins du client et à la gestion des stocks.
 
 ---
 

@@ -44,6 +44,7 @@ nav:
 # Configuration du thème :
 theme:
   name: material                  # mkdocs,readthedocs
+  language: fr
   custom_dir: overrides
   user_color_mode_toggle: true
   highlight.js: true
@@ -54,9 +55,9 @@ theme:
     search: 83   # s
   features:                       # navbar lateral pour la navigation.
     - navigation.sections
-  #   - navigation.tabs
-  #   - navigation.instant
-  #   - navigation.top
+    # - navigation.tabs
+    # - navigation.instant
+    # - navigation.top
 
 
 # Ajouter un fichier css pour personnaliser le site :

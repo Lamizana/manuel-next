@@ -28,7 +28,7 @@ Pour toute question, assistance ou retour concernant NEXT, n’hésitez pas à c
   <div class="contact-card">
     <h4>💼 Commercial</h4>
     <ul>
-      <li><strong>Email :</strong> <a href="mailto:commercial@landreau-groupe.com">commercial@landreau-groupe.com</a></li>
+      <li><strong>Email :</strong> <a href="mailto:commercial@landreau-groupe.fr">commercial@landreau-groupe.fr</a></li>
       <li><strong>Téléphone :</strong> +33 1 98 76 54 32</li>
     </ul>
   </div>

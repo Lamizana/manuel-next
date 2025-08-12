@@ -1,4 +1,4 @@
-# Manuel de NEXT
+# Manuel de LEO
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-Bienvenue dans **NEXT**, la solution ERP conçue pour accompagner la croissance et la transformation de votre entreprise.  
+Bienvenue dans **LEO**, la solution ERP conçue pour accompagner la croissance et la transformation de votre entreprise.  
 NEXT vous aide à **structurer**, **piloter** et **optimiser** vos activités, tout en favorisant la **collaboration** et l’**efficacité** au quotidien.
 
 > *« Grandir ensemble en bâtissant de nouveaux espaces plus spacieux, plus coopératifs, plus beaux ! »*
@@ -24,10 +24,10 @@ L’objectif est de mécaniser au maximum les tâches répétitives et de tirer 
 
 ## 📖 À propos de ce manuel
 
-Ce guide utilisateur présente les **principales fonctionnalités** de la solution **NEXT**, développée **pour et par** **LANDREAU GROUPE**.  
+Ce guide utilisateur présente les **principales fonctionnalités** de la solution **LEO**, développée **pour et par** **LANDREAU GROUPE**.  
 
 Il s’adresse à l’ensemble des collaborateurs et fournit toutes les informations nécessaires pour une **prise en main rapide** et une **utilisation optimale** de l’ERP.
 
-> Ce guide regroupe l’ensemble des bonnes pratiques, règles métier et instructions fonctionnelles nécessaires pour utiliser efficacement NEXT.
+> Ce guide regroupe l’ensemble des bonnes pratiques, règles métier et instructions fonctionnelles nécessaires pour utiliser efficacement LEO.
 
 ---

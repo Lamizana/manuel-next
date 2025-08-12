@@ -1,6 +1,6 @@
-# 🧭 Navigation générale dans NEXT
+# 🧭 Navigation générale dans LEO Erp
 
-L’interface de **NEXT** a été conçue pour être **intuitive**, **claire** et parfaitement adaptée aux besoins du négoce agricole et de la vente de matériaux.
+L’interface de **LEO** a été conçue pour être **intuitive**, **claire** et parfaitement adaptée aux besoins du négoce agricole et de la vente de matériaux.
 
 Chaque utilisateur accède à un **tableau de bord personnalisé** selon son rôle dans l’entreprise (commercial, logistique, administration, comptabilité…).
 
@@ -43,7 +43,7 @@ La barre de recherche globale vous permet de retrouver rapidement :
 
 ## ⌨️ Raccourcis clavier
 
-Voici quelques raccourcis pour naviguer rapidement dans **NEXT** :
+Voici quelques raccourcis pour naviguer rapidement dans **LEO** :
 
 | Touche | Action                  | Description                         |
 |--------|-------------------------|-----------------------------------|

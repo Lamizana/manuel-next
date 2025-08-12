@@ -1,4 +1,4 @@
-# 📝 Créer un devis dans NEXT
+# 📝 Créer un devis
 
 > La création d’un devis est une étape essentielle du processus de vente.  
 > Elle permet de formuler une offre chiffrée à un client potentiel, avec un détail précis des produits, quantités, prix et conditions commerciales.
@@ -7,7 +7,7 @@
 
 ## 🎯 Objectif
 
-Ce tutoriel vous guide pas à pas pour **créer**, **enregistrer** et **envoyer** un devis à un client depuis l’interface de NEXT.
+Ce tutoriel vous guide pas à pas pour **créer**, **enregistrer** et **envoyer** un devis à un client depuis l’interface de LEO.
 
 ---
 

@@ -37,6 +37,8 @@ nav:
       - Inventaires: guide-utilisateur/gestion-stocks/inventaires.md
       - Transferts intradépôt: guide-utilisateur/gestion-stocks/transferts.md
     - Mise en pratique: guide-utilisateur/pratique.md
+  - Utilisation: 
+    - WebApp Hardware Bridge: support/webapp-hardware-bridge.md
   - Contact: support/contact.md
   - FAQ: support/faq.md
   - Termes: support/termes.md

@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="images/index/logo_leo.png" alt="Logo LÉO" width="350">
 </p>

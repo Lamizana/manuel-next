@@ -15,11 +15,11 @@ Ce tutoriel vous guide pas à pas pour **créer**, **enregistrer** et **envoyer*
 
 ### 1. Accéder au module **Devis**
 
-- Depuis l'**onglet principal** : Ventes > Devis
+- Depuis l'**onglet principal**: Ventes > Devis
 
-![Emplacement du module Devis](../../images/devis/devis_01.jpeg){.shadowed-image}
+![Emplacement du module Devis](../../images/devis/devis_01.png){.shadowed-image}
 
-- Cliquez sur le bouton **➕ Créer devis** (en haut à droite).
+- Cliquez sur le bouton **➕ Ajouter devis** (en haut à droite).
 
 ![Créer un nouveau devis](../../images/devis/devis_02.jpeg){.shadowed-image}
 

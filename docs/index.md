@@ -1,8 +1,11 @@
-# Manuel de LEO
 
----
+<p align="center">
+  <img src="images/index/logo_leo.png" alt="Logo LÉO" width="350">
+</p>
 
-> *Innover. Conseiller. Agir.*
+<h1 align="center"><strong>Manuel Utilisateur</strong></h1>
+
+<p align="center"><em>Innover. Conseiller. Agir.</em></p>
 
 ---
 
@@ -15,10 +18,10 @@ NEXT vous aide à **structurer**, **piloter** et **optimiser** vos activités, t
 
 ## 🌾 Une solution ERP adaptée au négoce — **LANDREAU GROUPE**
 
-La mise en place de **NEXT** permet à **LANDREAU GROUPE** de **digitaliser** ses processus métier.  
+La mise en place de **LEO** permet à **LANDREAU GROUPE** de **digitaliser** ses processus métier.  
 L’objectif est de mécaniser au maximum les tâches répétitives et de tirer pleinement parti des technologies numériques adaptées à notre activité, afin de rester **compétitifs** et **agiles** face aux évolutions du marché.
 
-> 💡 **NEXT** est une réponse concrète aux enjeux actuels de **productivité**, de **qualité de service** et de **traçabilité**.
+> 💡 **LEO** est une réponse concrète aux enjeux actuels de **productivité**, de **qualité de service** et de **traçabilité**.
 
 ---
 
